@@ -29,7 +29,7 @@ body {
 }
 
 input {
-  width: 250px;
+  width: 180px;
   padding: 13px;
   border: 1px solid gray;
   border-top-left-radius: 5px;
@@ -60,7 +60,7 @@ input {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 395px;
+  width: 320px;
   font-size: 18px;
   
 }
@@ -94,7 +94,7 @@ input {
 }
 
 .country-image {
-  height: 150px;
+  height: 120px;
   width: 70%;
   text-align: center;
   padding: 8px;
@@ -105,4 +105,5 @@ input {
   align-items: center;
   justify-content: center;
 }
+
 
